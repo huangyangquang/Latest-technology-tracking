@@ -1,4 +1,4 @@
-# A safer default for navigation: HTTPS
+# 浅析chrome新特性之默认使用HTTPS，追溯源头至HSTS
 
 Chrome 90开始，将会默认使用HTTPS协议打开URL。  
 目前这个特性还在灰度没有完全发布。
@@ -17,13 +17,6 @@ Chrome 90开始，将会默认使用HTTPS协议打开URL。
 所以，问题就是chrome 浏览器为我们的网址补充网络协议时，以依据怎么样的规则去补充的呢？   
 
 可以参考第二篇[HTTP Strict Transport Security实战详解](https://www.cnblogs.com/sunsky303/p/8862600.html)
-
-
-
-
-
-
-
 
 
 # 参考：
