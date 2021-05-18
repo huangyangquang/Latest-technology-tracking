@@ -23,4 +23,28 @@ Chrome 90开始，将会默认使用HTTPS协议打开URL。
 - [了不起的Chrome浏览器：Chrome 90将默认使用HTTPS，Web更安全了](https://juejin.cn/post/6955700246303571999#heading-3)  
 - [HTTP Strict Transport Security实战详解](https://www.cnblogs.com/sunsky303/p/8862600.html)
 - [上古面试题——浏览器地址栏输入后回车会发生什么](https://segmentfault.com/a/1190000021000934?utm_source=tag-newest)
-- [关于HSTS安全协议的全面详细解析](https://blog.51cto.com/leoheng/2311422)
+- [关于HSTS安全协议的全面详细解析](https://blog.51cto.com/leoheng/2311422)  
+
+
+ # 社交信息 / Social Links:
+ ## (Welcome to pay attention, 欢迎关注)
+<p>Github：
+    <a target="_blank" href="https://github.com/huangyangquang">@huangyangquang</a>
+</p>
+<p>Social：
+    <a target="_blank" href="https://weibo.com/u/6385661354">新浪微博</a> 
+    | 
+    <a target="_blank" href="https://www.zhihu.com/people/cclv3">知乎</a>
+    | 
+    <a target="_blank" href="https://juejin.cn/user/2735240661699181">掘金</a>
+    | 
+    <a target="_blank" href="https://segmentfault.com/u/c_z7wgq/articles">是否</a>
+</p>
+<p>E-mail： 572518423@qq.com</p>
+<p>Old Blog：
+    <a target="_blank" href="https://blog.csdn.net/huangyangquan3?type=blog">CSDN</a>
+</p>
+<p>
+    微信公众号：前端学长Joshua
+</p>
+<img src="../../../static/img/wechatQrCode.jpg" width="50%">
