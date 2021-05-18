@@ -8,7 +8,7 @@ Chrome 90开始，将会默认使用HTTPS协议打开URL。
 1. Chrome 90之前的版本，当我们输入 example.com，chrome会默认访问 http://example.com，服务端如果配置了重定向，则会重定向到https://example.com.  
 2. Chrome 90则会默认访问 https://example.com。  
 
-可以参考第一篇[文章](https://juejin.cn/post/6955700246303571999#heading-3)，文章里面对chrome 90版本之前 和 chrome 90这部分做了详细解说  
+可以参考第一篇[了不起的Chrome浏览器：Chrome 90将默认使用HTTPS，Web更安全了](https://juejin.cn/post/6955700246303571999#heading-3)，文章里面对chrome 90版本之前 和 chrome 90这部分做了详细解说  
 
 
 我这里要对这个问题进行进一步的提问：  
