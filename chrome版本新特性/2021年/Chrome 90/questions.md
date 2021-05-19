@@ -126,6 +126,7 @@ preload | 可选:
 # 参考： 
 - [HTTP Strict Transport Security(MDN)](https://developer.mozilla.org/zh-CN/docs/Web/HTTP/Headers/Strict-Transport-Security)
 - [HTTP Strict Transport Security实战详解](https://www.cnblogs.com/sunsky303/p/8862600.html)
+- [HSTS详解](https://www.cnblogs.com/xd502djj/p/11660496.html)
 
 
 
