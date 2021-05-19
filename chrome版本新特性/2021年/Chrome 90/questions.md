@@ -3,7 +3,7 @@
 
 - [关于chrome浏览器(下面简称chrome)：](#关于chrome浏览器下面简称chrome)
     - [场景：在chrome地址栏上输入网址(eg: example.com, baidu.com...)   浏览器为什么会 为某些网址是自动补充网络协议http,为有些网址自动补充网络协议https呢？](#场景在chrome地址栏上输入网址eg-examplecom-baiducom---浏览器为什么会-为某些网址是自动补充网络协议http为有些网址自动补充网络协议https呢)
-    - [场景：我们在chrome上输入 example.com 时，浏览器会默认帮我们补充为 http://example.com， 当我们回车去访问 http://example.com， 服务器会为返回一个301/302的状态码，将网站重定向至 https://example.com。在上述的过程中，黑客利用哪部分的漏洞进行攻击呢？](#场景我们在chrome上输入-examplecom-时浏览器会默认帮我们补充为-httpexamplecom-当我们回车去访问-httpexamplecom-服务器会为返回一个301302的状态码将网站重定向至-httpsexamplecom在上述的过程中黑客利用哪部分的漏洞进行攻击呢)
+    - [场景：我们在chrome上输入 example.com 时，浏览器会默认帮我们补充为 http://example.com， 当我们回车去访问 http://example.com， 服务器会为返回一个301/302的状态码，将网站重定向至 https://example.com。 在上述的过程中，黑客利用哪部分的漏洞进行攻击呢？](#场景我们在chrome上输入-examplecom-时浏览器会默认帮我们补充为-httpexamplecom-当我们回车去访问-httpexamplecom-服务器会为返回一个301302的状态码将网站重定向至-httpsexamplecom-在上述的过程中黑客利用哪部分的漏洞进行攻击呢)
     - [为什么会要HSTS呢？](#为什么会要hsts呢)
     - [什么是HSTS?](#什么是hsts)
     - [HSTS的功能含义？](#hsts的功能含义)
@@ -25,7 +25,7 @@
 答：
 
 
-### 场景：我们在chrome上输入 example.com 时，浏览器会默认帮我们补充为 http://example.com， 当我们回车去访问 http://example.com， 服务器会为返回一个301/302的状态码，将网站重定向至 https://example.com。在上述的过程中，黑客利用哪部分的漏洞进行攻击呢？
+### 场景：我们在chrome上输入 example.com 时，浏览器会默认帮我们补充为 http://example.com， 当我们回车去访问 http://example.com， 服务器会为返回一个301/302的状态码，将网站重定向至 https://example.com。 在上述的过程中，黑客利用哪部分的漏洞进行攻击呢？
 ### 为什么会要HSTS呢？
 
 答: 
