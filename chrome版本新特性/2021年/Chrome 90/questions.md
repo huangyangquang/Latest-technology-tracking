@@ -1,7 +1,7 @@
 
 <!-- TOC -->
 
-- [关于chrome浏览器(下面简称chrome)：](#关于chrome浏览器下面简称chrome)
+- [关于chrome浏览器自动补充网络协议 + HSTS(下面简称chrome)：](#关于chrome浏览器自动补充网络协议--hsts下面简称chrome)
     - [场景：在chrome地址栏上输入网址(eg: example.com, baidu.com...)   浏览器为什么会 为某些网址是自动补充网络协议http,为有些网址自动补充网络协议https呢？](#场景在chrome地址栏上输入网址eg-examplecom-baiducom---浏览器为什么会-为某些网址是自动补充网络协议http为有些网址自动补充网络协议https呢)
     - [场景：我们在chrome上输入 example.com 时，浏览器会默认帮我们补充为 http://example.com， 当我们回车去访问 http://example.com， 服务器会为返回一个301/302的状态码，将网站重定向至 https://example.com。 在上述的过程中，黑客利用哪部分的漏洞进行攻击呢？](#场景我们在chrome上输入-examplecom-时浏览器会默认帮我们补充为-httpexamplecom-当我们回车去访问-httpexamplecom-服务器会为返回一个301302的状态码将网站重定向至-httpsexamplecom-在上述的过程中黑客利用哪部分的漏洞进行攻击呢)
     - [为什么会要HSTS呢？](#为什么会要hsts呢)
@@ -17,12 +17,15 @@
   - [(Welcome to pay attention, 欢迎关注)](#welcome-to-pay-attention-欢迎关注)
 
 <!-- /TOC -->
-# 关于chrome浏览器(下面简称chrome)：
+# 关于chrome浏览器自动补充网络协议 + HSTS(下面简称chrome)：
 
 
 ### 场景：在chrome地址栏上输入网址(eg: example.com, baidu.com...)   浏览器为什么会 为某些网址是自动补充网络协议http,为有些网址自动补充网络协议https呢？
 
-答：
+答：  
+1. chrome 90之前时默认加http, chrome90 是默认加https(目前灰度，需手动开启)
+2. domain 在浏览器的HSTS缓存中，会自动补充为https  
+3. domain 在HSTS 预加载列表，会自动补充为https  
 
 
 ### 场景：我们在chrome上输入 example.com 时，浏览器会默认帮我们补充为 http://example.com， 当我们回车去访问 http://example.com， 服务器会为返回一个301/302的状态码，将网站重定向至 https://example.com。 在上述的过程中，黑客利用哪部分的漏洞进行攻击呢？
@@ -130,7 +133,7 @@ preload | 可选:
 # 社交信息 / Social Links:
  ## (Welcome to pay attention, 欢迎关注)
 <p>Github：
-    <a target="_blank" href="https://github.com/huangyangquang">@huangyangquang</a>
+    <a target="_blank" href="https://github.com/huangyangquang">@huangyangquang</a> (欢迎**star**)
 </p>
 <p>Social：
     <a target="_blank" href="https://weibo.com/u/6385661354">新浪微博</a> 
