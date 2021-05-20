@@ -134,7 +134,13 @@ preload | 可选:
 # 社交信息 / Social Links:
  ## (Welcome to pay attention, 欢迎关注)
 <p>Github：
-    <a target="_blank" href="https://github.com/huangyangquang">@huangyangquang</a> (欢迎**star**)
+    <a target="_blank" href="https://github.com/huangyangquang">@huangyangquang</a> 
+    | 
+    <a target="_blank" href="https://github.com/huangyangquang/Latest-technology-tracking">最新技术追踪</a> 
+    |
+    <a target="_blank" href="https://github.com/huangyangquang/Algorithm">javascript版算法</a> 
+    |
+    <a target="_blank" href="https://github.com/huangyangquang/DEMO">早期前端知识总结 + 案例</a> (欢迎**star**)  
 </p>
 <p>Social：
     <a target="_blank" href="https://weibo.com/u/6385661354">新浪微博</a> 
@@ -153,7 +159,6 @@ preload | 可选:
     微信公众号：前端学长Joshua
 </p>
 <img src="../../../static/img/wechatQrCode.jpg" width="50%">
-
 
 
 

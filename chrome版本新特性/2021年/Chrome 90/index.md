@@ -1,6 +1,13 @@
 # 浅析chrome新特性之默认使用HTTPS，追溯源头至HSTS
 
-Chrome 90开始，将会默认使用HTTPS协议打开URL。  
+<!-- TOC -->
+
+- [浅析chrome新特性之默认使用HTTPS，追溯源头至HSTS](#浅析chrome新特性之默认使用https追溯源头至hsts)
+- [参考：](#参考)
+- [社交信息 / Social Links:](#社交信息--social-links)
+  - [(Welcome to pay attention, 欢迎关注)](#welcome-to-pay-attention-欢迎关注)
+
+<!-- /TOC -->
 目前这个特性还在灰度没有完全发布。
 
 
@@ -26,10 +33,16 @@ Chrome 90开始，将会默认使用HTTPS协议打开URL。
 - [关于HSTS安全协议的全面详细解析](https://blog.51cto.com/leoheng/2311422)  
 
 
- # 社交信息 / Social Links:
+# 社交信息 / Social Links:
  ## (Welcome to pay attention, 欢迎关注)
 <p>Github：
-    <a target="_blank" href="https://github.com/huangyangquang">@huangyangquang</a>
+    <a target="_blank" href="https://github.com/huangyangquang">@huangyangquang</a> 
+    | 
+    <a target="_blank" href="https://github.com/huangyangquang/Latest-technology-tracking">最新技术追踪</a> 
+    |
+    <a target="_blank" href="https://github.com/huangyangquang/Algorithm">javascript版算法</a> 
+    |
+    <a target="_blank" href="https://github.com/huangyangquang/DEMO">早期前端知识总结 + 案例</a> (欢迎**star**)  
 </p>
 <p>Social：
     <a target="_blank" href="https://weibo.com/u/6385661354">新浪微博</a> 
@@ -48,3 +61,4 @@ Chrome 90开始，将会默认使用HTTPS协议打开URL。
     微信公众号：前端学长Joshua
 </p>
 <img src="../../../static/img/wechatQrCode.jpg" width="50%">
+
