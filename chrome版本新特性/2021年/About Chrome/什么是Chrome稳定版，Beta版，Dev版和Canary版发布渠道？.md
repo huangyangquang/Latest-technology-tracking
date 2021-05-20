@@ -50,23 +50,15 @@
 # 社交信息 / Social Links:
  ## (Welcome to pay attention, 欢迎关注)
 Github：
-[@huangyangquang](https://github.com/huangyangquang) | 
-[最新技术追踪](https://github.com/huangyangquang/Latest-technology-tracking) | 
-[javascript版算法](https://github.com/huangyangquang/Algorithm) | 
-[早期前端知识总结 + 案例](https://github.com/huangyangquang/DEMO) | 
-欢迎Star✨✨✨
+[@huangyangquang](https://github.com/huangyangquang) | [最新技术追踪](https://github.com/huangyangquang/Latest-technology-tracking) | [javascript版算法](https://github.com/huangyangquang/Algorithm) | [早期前端知识总结 + 案例](https://github.com/huangyangquang/DEMO) | 欢迎Star✨✨✨
 
 
 Social：
-[新浪微博](https://weibo.com/u/6385661354) | 
-[知乎](https://www.zhihu.com/people/cclv3) | 
-[掘金](https://juejin.cn/user/2735240661699181) | 
-[思否](https://segmentfault.com/u/c_z7wgq/articles) 
+[新浪微博](https://weibo.com/u/6385661354) | [知乎](https://www.zhihu.com/people/cclv3) | [掘金](https://juejin.cn/user/2735240661699181) | [思否](https://segmentfault.com/u/c_z7wgq/articles) 
 
 E-mail： 572518423@qq.com  
 
-Old Blog 
-[CSDN](https://blog.csdn.net/huangyangquan3?type=blog)
+Old Blog：[CSDN](https://blog.csdn.net/huangyangquan3?type=blog)
 
 微信公众号：前端学长Joshua  
 
