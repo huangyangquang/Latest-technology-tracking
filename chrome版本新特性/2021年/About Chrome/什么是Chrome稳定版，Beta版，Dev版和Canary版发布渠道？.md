@@ -1,6 +1,6 @@
 <!-- TOC -->
 
-- [什么是Chrome稳定版，Beta版，Dev版和Canary版发布渠道？](#什么是chrome稳定版beta版dev版和canary版发布渠道)
+- [什么是Chrome稳定版，Beta版，Dev版和Canary版发布渠道？(转载)](#什么是chrome稳定版beta版dev版和canary版发布渠道转载)
   - [Chrome稳定版，Beta，Dev，Canary发布渠道](#chrome稳定版betadevcanary发布渠道)
   - [什么是Chrome Canary版本？](#什么是chrome-canary版本)
   - [什么是Chrome开发者频道？](#什么是chrome开发者频道)
@@ -13,7 +13,7 @@
 
 <!-- /TOC -->
 
-# 什么是Chrome稳定版，Beta版，Dev版和Canary版发布渠道？
+# 什么是Chrome稳定版，Beta版，Dev版和Canary版发布渠道？(转载)
 
 关于谷歌浏览器, Google提供了Chrome稳定版，Beta版，开发版和Canary版渠道或版本。
 
@@ -49,30 +49,26 @@
 
 # 社交信息 / Social Links:
  ## (Welcome to pay attention, 欢迎关注)
-<p>Github：
-    <a target="_blank" href="https://github.com/huangyangquang">@huangyangquang</a> 
-    | 
-    <a target="_blank" href="https://github.com/huangyangquang/Latest-technology-tracking">最新技术追踪</a> 
-    |
-    <a target="_blank" href="https://github.com/huangyangquang/Algorithm">javascript版算法</a> 
-    |
-    <a target="_blank" href="https://github.com/huangyangquang/DEMO">早期前端知识总结 + 案例</a> (欢迎**star**)  
-</p>
-<p>Social：
-    <a target="_blank" href="https://weibo.com/u/6385661354">新浪微博</a> 
-    | 
-    <a target="_blank" href="https://www.zhihu.com/people/cclv3">知乎</a>
-    | 
-    <a target="_blank" href="https://juejin.cn/user/2735240661699181">掘金</a>
-    | 
-    <a target="_blank" href="https://segmentfault.com/u/c_z7wgq/articles">是否</a>
-</p>
-<p>E-mail： 572518423@qq.com</p>
-<p>Old Blog：
-    <a target="_blank" href="https://blog.csdn.net/huangyangquan3?type=blog">CSDN</a>
-</p>
-<p>
-    微信公众号：前端学长Joshua
-</p>
-<img src="../../../static/img/wechatQrCode.jpg" width="50%">
+Github：
+[@huangyangquang](https://github.com/huangyangquang) | 
+[最新技术追踪](https://github.com/huangyangquang/Latest-technology-tracking) | 
+[javascript版算法](https://github.com/huangyangquang/Algorithm) | 
+[早期前端知识总结 + 案例](https://github.com/huangyangquang/DEMO) | 
+欢迎Star✨✨✨
 
+
+Social：
+[新浪微博](https://weibo.com/u/6385661354) | 
+[知乎](https://www.zhihu.com/people/cclv3) | 
+[掘金](https://juejin.cn/user/2735240661699181) | 
+[思否](https://segmentfault.com/u/c_z7wgq/articles) 
+
+E-mail： 572518423@qq.com  
+
+Old Blog 
+[CSDN](https://blog.csdn.net/huangyangquan3?type=blog)
+
+微信公众号：前端学长Joshua  
+
+<img src="../../../static/img/wechatQrCode.jpg" width="50%">
+ 

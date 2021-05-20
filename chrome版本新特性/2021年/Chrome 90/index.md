@@ -51,7 +51,7 @@
     | 
     <a target="_blank" href="https://juejin.cn/user/2735240661699181">掘金</a>
     | 
-    <a target="_blank" href="https://segmentfault.com/u/c_z7wgq/articles">是否</a>
+    <a target="_blank" href="https://segmentfault.com/u/c_z7wgq/articles">思否</a>
 </p>
 <p>E-mail： 572518423@qq.com</p>
 <p>Old Blog：
