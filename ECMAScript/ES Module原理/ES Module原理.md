@@ -66,7 +66,7 @@ module map不只是看哪个文件正在被下载，它同时也管理这模块�
 一旦module record创建完成，它就会被放到module map里面去。这意味着无论何时被请求，loader都可以从module map里面提取它。  
 <img src="./../static/img/8.png" width="50%">
 
-这一步骤就结束了。在加载进程结束之后，我们就从拥有一个入口文件到最后拥有一系列的module record。
+这一步骤就结束了。在加载进程结束之后，我们就从拥有一个入口文件到最后拥有一系列的module record。  
 <img src="./../static/img/9.png" width="50%">
 
 
@@ -118,7 +118,8 @@ CommonJS可以做不同于ES Module的处理，是因为从文件系统里面加
 
 那么，esm中就不能进行模块的动态导入了吗？  
 不是的，有一个提议叫做动态导入，可以用来满足类似这样的需求：
-> import(${path}/foo.js).
+> import(${path}/foo.js).  
+
 动态导入的工作原理是，任何使用import()来导入的文件，都会作为一个入口文件从而创建一棵单独的依赖树，被单独处理。  
 <img src="./../static/img/13.png" width="50%">  
 但有一点需要注意的是 - 任何同时存在于两棵依赖树的模块都指向同一个模块实例。这是因为loader把模块实例缓存起来了。
