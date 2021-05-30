@@ -147,7 +147,7 @@ CommonJS可以做不同于ES Module的处理，是因为从文件系统里面加
 
 - module record里面有什么东西呢？
 
-- 
+  
 
 
 
