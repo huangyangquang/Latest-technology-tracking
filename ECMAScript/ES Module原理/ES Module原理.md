@@ -145,7 +145,7 @@ CommonJS可以做不同于ES Module的处理，是因为从文件系统里面加
 
 - 为什么被loader加载回来的模块文件，浏览器是不能直接使用的呢？为什么需要把这些模块文件转变为module record呢？ （暂时没有找到答案）
 
-- module record里面有什么东西呢？
+- module record里面有什么东西呢？（暂时没有找到答案）
 
   
 
@@ -155,7 +155,7 @@ CommonJS可以做不同于ES Module的处理，是因为从文件系统里面加
 
 # 参考：
 - [ES module工作原理](https://segmentfault.com/a/1190000020388889)
-
+- [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
 
 # 社交信息 / Social Links:
  ## (Welcome to pay attention, 欢迎关注)
