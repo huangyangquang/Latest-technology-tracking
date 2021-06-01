@@ -156,6 +156,9 @@ CommonJS可以做不同于ES Module的处理，是因为从文件系统里面加
 # 参考：
 - [ES module工作原理](https://segmentfault.com/a/1190000020388889)
 - [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
+- [import到底做了什么？](https://juejin.cn/post/6844903510778052621#heading-6)
+- [ES6 In Depth: Modules](https://hacks.mozilla.org/2015/08/es6-in-depth-modules/)
+- [Node.js 如何处理 ES6 模块](http://www.ruanyifeng.com/blog/2020/08/how-nodejs-use-es6-module.html)
 
 
 
