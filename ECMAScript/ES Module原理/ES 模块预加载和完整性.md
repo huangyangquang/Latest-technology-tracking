@@ -138,11 +138,11 @@ console.log('b')
 
 未使用模块预加载：  
 模块是串行加载的，按模块的解析顺序进行加载  
-<img src="../static/img/p1.png" width="90%">
+<img src="http://qvf3q8r5e.hn-bkt.clouddn.com/p1.png" width="90%">
 
 使用模块预加载：（去掉index.html代码注释）  
 所有模块是并行加载的（加载时间被明显缩短200ms）
-<img src="../static/img/p2.png" width="90%">
+<img src="http://qvf3q8r5e.hn-bkt.clouddn.com/p2.png" width="90%">
 
 但是，如果项目的模块很多的话，那么这样一个一个手动加，也不是好办法，所以最好是可以先获取到整个模块依赖图，然后通过脚本将模块预加载的标签自动加入到页面上。
 
@@ -240,4 +240,4 @@ Old Blog：[CSDN](https://blog.csdn.net/huangyangquan3?type=blog)
 
 微信公众号：前端学长Joshua  
 
-<img src="../../static/img/wechatQrCode.jpg" width="50%">
+<img src="http://qvf3q8r5e.hn-bkt.clouddn.com/wechatQrCode.jpg" width="50%">
